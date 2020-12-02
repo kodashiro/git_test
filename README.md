@@ -9,3 +9,5 @@ line7
 topic-A
 
 もう一回
+
+topic-B
